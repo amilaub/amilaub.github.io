@@ -26,7 +26,7 @@ const Home = () => {
         <ImageHolder
           primarySource={ProfessionalHeadshot}
           secondarySource={FallbackProfessionalHeadshot}
-          alt="Professional Headshot of Aditya Vikram Singh"
+          alt="Professional Headshot of Amila Viraj"
           className={styles.professionalHeadshot}
         />
       </Row>
